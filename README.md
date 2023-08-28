@@ -39,9 +39,3 @@ flutter run
 ### Home Page
 <img src="assets/screenshots/home-page.png" />
 
-## Links
-
-* [Website](https://afgprogrammer.com)
-* [Youtube channel](https://youtube.com/afgprogrammer)
-* [Twitter](https://twitter.com/afgprogrammer)
-* [Instagram](https://instagram.com/afgprogrammer)
